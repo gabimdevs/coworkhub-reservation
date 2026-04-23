@@ -5,7 +5,6 @@ Sistema de reservas para espaços de coworking, desenvolvido em **Java Spring Bo
 
 ## 🧑‍💻 Integrantes
 + Gabriela Gomes Cezar RM556941
-+ João Victor Rocha RM554727
 
 ## 🚀 Tecnologias
 
